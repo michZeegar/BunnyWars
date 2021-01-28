@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>code/Images/Level1.png</file>
+        <file>code/Images/bunny.png</file>
+        <file>code/Images/BunnySmall.png</file>
+        <file>code/Images/InvertedBunnySmall.png</file>
+        <file>code/Images/carrot.png</file>
+        <file>code/Images/lifePoints.png</file>
+        <file>code/Images/HeartSmall.png</file>
+        <file>code/Images/HeartWithEarsSmall.png</file>
+        <file>code/Images/FullHeartSmall.png</file>
+        <file>code/Images/Interface.png</file>
+        <file>code/Sounds/gun-gunshot-02.wav</file>
+    </qresource>
+</RCC>

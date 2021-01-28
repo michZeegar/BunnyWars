@@ -1,0 +1,59 @@
+# In repository we don't need to have:
+
+# Generated MOC, resource and UI files
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# Windows-specific files
+desktop.ini
+
+# Mac-specific things
+.DS_Store
+
+# Editors temporary files 
+*~
+
+# greisliches .user & .autosave qt zeugs
+*.autosave
+*.user
+*.pro.user
+
+#Debug and Release directories (windows gaudi)
+Debug/
+Release/
+
+# Compiled source / windows gaudi 
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages 
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases 
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+

@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>code/Images/BunnySmall.png</file>
+        <file>code/Images/carrot.png</file>
+        <file>code/Images/FullHeartSmall.png</file>
+        <file>code/Images/HeartSmall.png</file>
+        <file>code/Images/HeartWithEarsSmall.png</file>
+        <file>code/Images/Interface.png</file>
+        <file>code/Images/InvertedBunnySmall.png</file>
+        <file>code/Images/lifePoints.png</file>
+        <file>code/Sounds/gun-gunshot-02.wav</file>
+        <file>code/Images/Level1.png</file>
+        <file>code/Images/WindToRight.png</file>
+        <file>code/Images/WindToLeft.png</file>
+        <file>code/Images/Level1_scaled.png</file>
+        <file>code/Images/stop-sign-png-22.png</file>
+        <file>code/Images/Lava_fountain.png</file>
+        <file>code/Images/Level1JustGround.png</file>
+        <file>code/Images/Level2JustGround.png</file>
+        <file>code/Images/Level3JustGround.png</file>
+        <file>code/Images/Angry_carrot.png</file>
+        <file>code/Images/Stop_sign.png</file>
+        <file>code/Images/Level2.png</file>
+        <file>code/Images/Level3.png</file>
+        <file>code/Images/Spray.png</file>
+        <file>code/Images/MachineGunSquare.png</file>
+        <file>code/Images/CarrotSquare.png</file>
+        <file>code/Images/Big_scared_carrot.png</file>
+        <file>code/Images/Easter_Egg.png</file>
+        <file>code/Images/MinigunSquare.png</file>
+        <file>code/Images/EggsplosiveSquare.png</file>
+        <file>code/Images/EggsplosiveSquareB_W.png</file>
+        <file>code/Images/MinigunSquareB_W.png</file>
+        <file>code/Images/MachineGunSquareB_W.png</file>
+        <file>code/Images/SprayB_W.png</file>
+        <file>code/Images/SquareFrame.png</file>
+        <file>code/Images/GigaSpray.png</file>
+        <file>code/Images/GigaSprayB_W.png</file>
+    </qresource>
+</RCC>
